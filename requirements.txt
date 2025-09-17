@@ -1,0 +1,4 @@
+# Core dependencies for sam_assistant document repository
+python-dateutil>=2.8.2
+pathlib>=1.0.1
+typing-extensions>=4.0.0
